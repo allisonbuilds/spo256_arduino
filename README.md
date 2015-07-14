@@ -14,21 +14,22 @@ OSC1 (pin 27) is driven by the Arduino's clock through Arduino pin 11
 
 Pin hookup:
 
-Arduino :: SPO256
-2 :: 18 (SPO A1)
-3 :: 17 (SPO A2)
-4 :: 16 (SPO A3)
-5 :: 15 (SPO A4)
-6 :: 14 (SPO A5)
-7 :: 13 (SPO A6)
-8 :: 20 (SPO ALD)
-9 :: 9  (SPO LRQ)
-10 :: 2 (SPO RESET), 25 (SPO SBY RST)
-11 :: 27 (SPO OSC1)
-Ground :: 1 (SPO GND), 22 (SPO TEST)
-Power :: 23 (SPO VDI), 19 (SPO SE), 7 (SPO VDD)
+Arduino | SPO256
+------- | -------
+2 | 18 (SPO A1)
+3 | 17 (SPO A2)
+4 | 16 (SPO A3)
+5 | 15 (SPO A4)
+6 | 14 (SPO A5)
+7 | 13 (SPO A6)
+8 | 20 (SPO ALD)
+9 | 9  (SPO LRQ)
+10 | 2 (SPO RESET), 25 (SPO SBY RST)
+11 | 27 (SPO OSC1)
+Ground | 1 (SPO GND), 22 (SPO TEST)
+Power | 23 (SPO VDI), 19 (SPO SE), 7 (SPO VDD)
 
-To speaker :: 24 (SPO OUT) 
+To speaker | 24 (SPO OUT) 
 
 
 
